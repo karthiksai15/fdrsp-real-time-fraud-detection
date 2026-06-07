@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# datasets
+*.csv
+
+# trained models
+*.pkl
+
+.DS_Store
